@@ -1,5 +1,3 @@
-2- Suba esse projeto no github, atualize o read me contando tudo o que você aprendeu e usou.
-
 # O que eu aprendi?
 Na última aula, aprendemos:
 
